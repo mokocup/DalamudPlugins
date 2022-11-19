@@ -1,7 +1,7 @@
 [
     {
         "Author": "mokocup",
-        "Name": "EasyEyes - Enhanced",
+        "Name": "EasyEyesEnhanced",
         "Punchline": "Hide annoying or distracting VFXs",
         "Description": "Ehhanced Easy Eyes Plugin - A fork that improve Easy Eyes plugin by ocealot",
         "InternalName": "EasyEyesEnhanced",
@@ -12,8 +12,8 @@
             "VFX",
             "AVFX"
         ],
-        "LoadPriority": 69419,
         "DalamudApiLevel": 7,
+        "LoadPriority": 69419,
         "IsHide": "False",
         "IsTestingExclusive": "False",
         "LastUpdated": 4,
