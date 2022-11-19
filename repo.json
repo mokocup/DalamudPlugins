@@ -1,0 +1,25 @@
+[
+    {
+        "Author": "mokocup",
+        "Name": "EasyEyes - Enhanced",
+        "Punchline": "Hide annoying or distracting VFXs",
+        "Description": "Ehhanced Easy Eyes Plugin - A fork that improve Easy Eyes plugin by ocealot",
+        "InternalName": "EasyEyesEnhanced",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/mokocup/EasyEyes",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "VFX",
+            "AVFX"
+        ],
+        "LoadPriority": 69419,
+        "DalamudApiLevel": 7,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 1,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/mokocup/EasyEyes/releases/download/1.0.0.0/EasyEyesEnhanced.zip",
+        "DownloadLinkTesting": "https://github.com/mokocup/EasyEyes/releases/download/1.0.0.0/EasyEyesEnhanced.zip",
+        "DownloadLinkUpdate": "https://github.com/mokocup/EasyEyes/releases/download/1.0.0.0/EasyEyesEnhanced.zip"
+    }
+]
